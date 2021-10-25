@@ -1,7 +1,3 @@
-/* Cascating Stylesheet - folha de estilho em cascata */
-/* referência de toda tag h1 --> */
-/* propriedade (font-size) de valor (1.5rem) */
-
 * {
   margin: 0;
 }
@@ -17,7 +13,6 @@ body {
 }
 
 body {
-  /* propriedades */
   display: grid;
   place-items: center;
 }
